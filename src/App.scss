@@ -1,0 +1,59 @@
+.header{
+    background-color: #344532;
+    color: white !important;
+    .profileImage{
+        position: relative;
+        top: 15px;
+        left: 15px;
+        border: 2px solid white;
+        border-radius: 50px;
+    }
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+.attendanceRate {
+    color: #7dc24b;
+    font-weight: 500;
+}
+.profileDetails{
+    background-color: #FFFBEE;
+    border: 1px solid #d8d2c0;
+    .react-datepicker-wrapper input{
+        border: 1px solid #3FAFE2;
+        padding: 5px;
+    }
+    .dateCalendar{
+        color: #3FAFE2;
+        cursor: pointer;
+    }
+}
+.ptoCircle{
+    background-color: #37BEDE;
+    display: inline-block;
+    color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+.fs25{
+    font-size: 25px;
+}
+
+.height35{
+    height: 35px;
+}
+.App {
+    padding: 20px;
+  }
+  
+  .bg-blue {
+    background-color: #034769;
+  }
+  .text-blue{
+      color: #034769;
+  }
+  .row-background{
+      background-color: #EFEFEF;
+  }
+  

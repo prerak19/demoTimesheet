@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.af65e954.chunk.css",
+    "main.js": "/static/js/main.0347443f.chunk.js",
+    "main.js.map": "/static/js/main.0347443f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2bbab1e1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2bbab1e1.js.map",
+    "static/css/2.e9c3ecee.chunk.css": "/static/css/2.e9c3ecee.chunk.css",
+    "static/js/2.635536a4.chunk.js": "/static/js/2.635536a4.chunk.js",
+    "static/js/2.635536a4.chunk.js.map": "/static/js/2.635536a4.chunk.js.map",
+    "static/js/3.a426ebf7.chunk.js": "/static/js/3.a426ebf7.chunk.js",
+    "static/js/3.a426ebf7.chunk.js.map": "/static/js/3.a426ebf7.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e9c3ecee.chunk.css.map": "/static/css/2.e9c3ecee.chunk.css.map",
+    "static/css/main.af65e954.chunk.css.map": "/static/css/main.af65e954.chunk.css.map",
+    "static/js/2.635536a4.chunk.js.LICENSE.txt": "/static/js/2.635536a4.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2bbab1e1.js",
+    "static/css/2.e9c3ecee.chunk.css",
+    "static/js/2.635536a4.chunk.js",
+    "static/css/main.af65e954.chunk.css",
+    "static/js/main.0347443f.chunk.js"
+  ]
+}
